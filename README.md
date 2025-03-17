@@ -14,9 +14,13 @@ Emotions Count in the Dataset:
  
 Waveplot of a Sample Audio:
 A waveplot shows the loudness of audio over time: 
+![image](https://github.com/user-attachments/assets/df50ceb4-ffff-47bb-913c-9810a3a8c841)
+
  
 Spectrogram of a Sample Audio:
 A spectrogram visualizes sound frequencies over time: 
+![image](https://github.com/user-attachments/assets/12d56494-86fd-4072-9995-8af4b7306a92)
+
  
 Project Overview:
 The model used in this project is an MLPClassifier, which is trained on features extracted from the audio files, such as MFCC (Mel Frequency Cepstral Coefficients) and mel-spectrogram. These features enable the model to detect nuanced differences in speech patterns associated with different emotions.
