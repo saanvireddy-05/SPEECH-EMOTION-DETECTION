@@ -7,6 +7,9 @@ The primary dataset used for this project is the Crowd-sourced Emotional Multimo
 •	Dataset Composition: The dataset includes 7,442 audio samples from 91 actors, capturing a diverse range of expressions with different intensity levels and sentences spoken in various emotional tones.
 
 Emotions Count in the Dataset:
+![image](https://github.com/user-attachments/assets/46c98bb3-002e-45c7-af28-601e55cd5d7c)
+
+
 
  
 Waveplot of a Sample Audio:
