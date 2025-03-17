@@ -1,4 +1,4 @@
-# SPEECH-EMOTION-DETECTION-
+# SPEECH-EMOTION-DETECTION
 SPEECH EMOTION DETECTION CLASSIFIER
 Emotion recognition is an essential aspect of speech analysis and has applications across customer service, healthcare, and virtual assistants. In this repository, we utilize deep learning techniques to recognize emotions from audio data using the CREMA-D dataset.
 Dataset:
